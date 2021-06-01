@@ -1,0 +1,7 @@
+/stl10_binary
+*.tar
+*.pdf
+*.pth
+*.bin
+*.gz
+.ipynb_checkpoints
